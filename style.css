@@ -1,0 +1,94 @@
+body {
+    font-family: sans-serif;
+    background-color: Indigo;
+    color: white;
+
+}
+
+.mark {
+   float: left;
+   width: 400px;
+   
+}
+
+.mark img {
+    float: left;
+    height: 50px;
+    width: 54px;
+}
+
+main img {
+    height: 500px;
+    width: 755px;
+    border-left: 15px double white;
+}
+
+.Mazda {
+    float: left;
+   width: 400px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.supra {
+    float: left;
+   width: 400px;
+}
+
+.r34 {
+    float: left;
+   width: 400px;
+}
+
+.silvia {
+    float: left;
+   width: 400px;
+}
+
+a {
+    text-decoration: none;
+    border: 2px solid white;
+    border-radius: 5px;
+    padding: 3px;
+    margin: 5px;
+    color: white;
+    background-color: Black;
+}
+
+header {
+    background-color: Darkgrey;
+    color: Black;
+    
+}
+
+nav {
+    background-color: Darkgrey;
+}
+
+p {
+    font-size: 17px;
+}
+
+footer {
+    background-color: Darkgrey;
+    color: white;
+    margin: 5px;
+    
+}
+
+footer p {
+    background-color: indigo;
+
+}
+
+footer h2 {
+    background-color: indigo;
+
+}
+
+.footers {
+    float: right;
+    margin: 10px;
+}
